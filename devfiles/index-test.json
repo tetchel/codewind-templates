@@ -1,0 +1,74 @@
+[
+{
+  "displayName":"WebSphere Liberty MicroProfile®",
+  "description":"Eclipse MicroProfile® on Websphere Liberty",
+  "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
+  "language":"java",
+  "projectType":"liberty",
+  "location":"https://github.com/codewind-resources/javaMicroProfileTemplate",
+  "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Spring Boot®",
+  "description":"Eclipse Codewind Spring Boot® sample application",
+  "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
+  "language":"java",
+  "projectType":"spring",
+  "location":"https://github.com/codewind-resources/springJavaTemplate",
+  "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Python",
+  "description":"Eclipse Codewind Python sample application",
+  "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
+  "language":"python",
+  "projectType":"docker",
+  "location":"https://github.com/codewind-resources/pythonTemplate",
+  "links": {"self":"/devfiles/pythonTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Node.js Express",
+  "description":"Eclipse Codewind Node.js Express sample application",
+  "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
+  "language":"nodejs",
+  "projectType":"nodejs",
+  "location":"https://github.com/codewind-resources/nodeExpressTemplate",
+  "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Swift",
+  "description":"Eclipse Codewind Swift sample application",
+  "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
+  "language":"swift",
+  "projectType":"swift",
+  "location":"https://github.com/codewind-resources/swiftTemplate",
+  "links": {"self":"/devfiles/swiftTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Go",
+  "description":"Eclipse Codewind Go sample application",
+  "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
+  "language":"go",
+  "projectType":"docker",
+  "location":"https://github.com/codewind-resources/goTemplate",
+  "links": {"self":"/devfiles/goTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Lagom Java",
+  "description":"Eclipse Codewind Lagom Reactive microservice in Java",
+  "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
+  "language":"java",
+  "projectType":"docker",
+  "location":"https://github.com/codewind-resources/lagomJavaTemplate",
+  "links": {"self":"/devfiles/lagomJavaTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Open Liberty",
+  "description":"Eclipse Codewind Open Liberty sample application in Java",
+  "icon":"https://ibm.box.com/shared/static/1f4rsxgkxy4p8ourz6kli9sora4s4idw.svg",
+  "language":"java",
+  "projectType":"docker",
+  "location":"https://github.com/codewind-resources/openLibertyTemplate",
+  "links": {"self":"/devfiles/openLibertyTemplate/devfile.yaml" }
+}
+]
